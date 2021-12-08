@@ -34,8 +34,30 @@
         <textarea class="txt2" name="texto" id="txtconsola" style="width:500px;height:700px">--CONSOLA DE RESULTADOS--</textarea>
         <textarea class="txt4" name="texto" id="txtconsola" style="width:500px;height:700px">--RESULTADOS 3D--</textarea>
         <textarea class="txt3" name="texto" id="txtxpath" style="width:1520px;height:30px">--CONSOLA DE ERRORES--</textarea>
-
-
     </div>
+
+    <script type="text/javascript">
+      const input = document.getElementById('file');
+      const editor = document.getElementById('txtxml');
+      const editor1 = document.getElementById('txtxpath');
+      input.addEventListener('change', function () {
+        if (input.files.length > 0) {
+          readFile(input.files[0]);
+        }
+      });
+      function readFile(file) {
+        const reader = new FileReader();
+        reader.onload = function () {
+          if (editor.value === "INGRESE SU ARCHIVO DEL LENGUALE QUETZAL") {
+            editor.value = reader.result;
+          } else {
+            editor1.value = reader.result;
+          }
+  
+        }
+        reader.readAsText(file);
+      }
+    </script>
+
 </body>
 </html>
