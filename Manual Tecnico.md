@@ -27,10 +27,10 @@ ___
 [Imagen 1](/27Pablooliva27.github.io/Images/flujo_quetzal)
 
 # Gramatica
-[Imagen 2](/27Pablooliva27.github.io/Images/Terminales)
-[Imagen 3](/27Pablooliva27.github.io/Images/Terminales1)
-[Imagen 4](/27Pablooliva27.github.io/Images/Terminales2)
-[Imagen 5](/27Pablooliva27.github.io/Images/Gramatica)
+[Imagen 2](#Terminales)
+[Imagen 3](#Terminales1)
+[Imagen 4](#Terminales2)
+[Imagen 5](#Gramatica)
 
 
 
