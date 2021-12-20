@@ -16,27 +16,27 @@ ___
 ### Pantalla
 Area para la carga del archivo Quetzal
   
-  <!-- ![Imagen 1](/20211SVAC/G10/images/img3.png) -->
+  ![image](https://github.com/27Pablooliva27/27Pablooliva27.github.io/blob/main/Images/CargaArchivo.png)
 
 Area para mostrar y editar el archivo Quetzal
   
-  <!-- ![Imagen 2](/20211SVAC/G10//images/img2.png) -->
+  ![image](https://github.com/27Pablooliva27/27Pablooliva27.github.io/blob/main/Images/Entrada%20Archivo.png)
 
 Botones para compilar, limpiar y generar los reportes
 
-  <!-- ![Imagen 3](/20211SVAC/G10/images/img3.png) -->
+  ![image](https://github.com/27Pablooliva27/27Pablooliva27.github.io/blob/main/Images/Botones.png)
 
 Area para mostrar la salida ejecutada
 
-  <!-- ![Imagen 4](/20211SVAC/G10/images/img4.png) -->
+  ![image](https://github.com/27Pablooliva27/27Pablooliva27.github.io/blob/main/Images/Salida_Archivo.png)
  
 Area para mostrar el codigo de tres direcciones
   
-  <!-- ![Imagen 5](/20211SVAC/G10/images/img5.png) -->
-
+  ![image](https://github.com/27Pablooliva27/27Pablooliva27.github.io/blob/main/Images/Salida_3D.png)
+  
 Area para mostrar los errores
   
-  <!-- ![Imagen 6](/20211SVAC/G10/images/img5.png) -->
+ ![image](https://github.com/27Pablooliva27/27Pablooliva27.github.io/blob/main/Images/Salida_Errores.png)
  
 
 
