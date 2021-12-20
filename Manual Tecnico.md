@@ -23,14 +23,15 @@ ___
 > Para la elaboración de este programa se utlizó como lenguaje Typescript. Para el manejo de las gramaticas se utilizó jison. 
 > La pagina se publicó en GitHub Pages.
 
-##### Flujo
-<!-- ![Imagen 6](/20211SVAC/G10//images/img6.png) -->
+# Flujo
+[Imagen 1](/27Pablooliva27.github.io/Images/flujo_quetzal)
 
 # Gramatica
-<!-- ![Imagen 6](/20211SVAC/G10//images/img6.png) -->
-<!-- ![Imagen 6](/20211SVAC/G10//images/img6.png) -->
-<!-- ![Imagen 6](/20211SVAC/G10//images/img6.png) -->
-<!-- ![Imagen 6](/20211SVAC/G10//images/img6.png) -->
+[Imagen 2](/27Pablooliva27.github.io/Images/Terminales)
+[Imagen 3](/27Pablooliva27.github.io/Images/Terminales1)
+[Imagen 4](/27Pablooliva27.github.io/Images/Terminales2)
+[Imagen 5](/27Pablooliva27.github.io/Images/Gramatica)
+
 
 
 
