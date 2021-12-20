@@ -24,13 +24,13 @@ ___
 > La pagina se publicó en GitHub Pages.
 
 # Flujo
-[Imagen 1](/27Pablooliva27.github.io/Images/flujo_quetzal)
-
+![image](https://github.com/27Pablooliva27/27Pablooliva27.github.io/blob/main/Images/flujo_quetzal.png)
 # Gramatica
-[Imagen 2](#Terminales)
-[Imagen 3](#Terminales1)
-[Imagen 4](#Terminales2)
-[Imagen 5](#Gramatica)
+![image](https://github.com/27Pablooliva27/27Pablooliva27.github.io/blob/main/Images/Terminales.png)
+![image](https://github.com/27Pablooliva27/27Pablooliva27.github.io/blob/main/Images/Terminales1.png)
+![image](https://github.com/27Pablooliva27/27Pablooliva27.github.io/blob/main/Images/Terminales2.png)
+![image](https://github.com/27Pablooliva27/27Pablooliva27.github.io/blob/main/Images/Gramatica.png)
+
 
 
 
